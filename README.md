@@ -131,18 +131,6 @@ The models were evaluated using:
 
 ---
 
-## Repository Structure
-Hinglish-sentiment-analysis-rnn-lstm-bilstm/
-│── dataset/
-│── hinglish_rnn_lstm_bilstm_comparison.ipynb
-│── README.md
-│── requirements.txt
-│── LICENSE
-│── .gitignore
-
-
----
-
 ## Future Improvements
 - Implementation of transformer-based models such as BERT or RoBERTa
 - Expansion of dataset size for better generalization
