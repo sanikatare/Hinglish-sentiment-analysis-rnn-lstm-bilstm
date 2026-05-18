@@ -1,4 +1,4 @@
-# A Deep Learning Approach for Code-Mixed Hate Speech Detection Using BiLSTM
+# A Deep Learning Approach for Code-Mixed (Hinglish) Hate Speech Detection Using BiLSTM
 
 ## Overview
 This project focuses on detecting hate speech in code-mixed Hinglish text using deep learning models. It implements and compares three neural network architectures: Recurrent Neural Network (RNN), Long Short-Term Memory (LSTM), and Bidirectional LSTM (BiLSTM). The goal is to improve classification performance on informal social media text such as Reddit-style conversations, where language is noisy, slang-heavy, and context-dependent.
