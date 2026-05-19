@@ -52,7 +52,7 @@ The dataset includes:
 ## Methodology
 
 ### Data Collection
-Data was collected from publicly available datasets containing Hinglish and code-mixed social media text.
+Data was collected from publicly available datasets containing Hinglish and code-mixed social media text. Merged several datasets for training the model.
 
 ### Data Preprocessing
 The following preprocessing steps were applied:
