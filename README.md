@@ -31,7 +31,7 @@ Hate speech detection in Hinglish is uniquely difficult due to:
 
 ---
 
-## 📊 Results
+## Results
 
 | Model   | Accuracy | Precision | Recall | Macro F1 |
 |---------|----------|-----------|--------|----------|
@@ -135,6 +135,6 @@ Code-mixed Hinglish text sourced from publicly available datasets (Kaggle and Re
 
 ---
 
-## 📄 License
+## License
 
 This project is for academic and research purposes.
