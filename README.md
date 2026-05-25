@@ -57,7 +57,6 @@ Processes the sequence in **both forward and backward directions**, producing ri
 ```
 Input → Embedding Layer → Stacked BiLSTM Layers → Dense Layer → Sigmoid Output
 ```
-
 ---
 
 ## Pipeline
