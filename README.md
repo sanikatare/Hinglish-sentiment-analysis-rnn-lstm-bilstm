@@ -30,7 +30,6 @@ Hate speech detection in Hinglish is uniquely difficult due to:
 - Evaluate using accuracy, precision, recall, and macro F1-score
 
 ---
-
 ## Results
 
 | Model   | Accuracy | Precision | Recall | Macro F1 |
