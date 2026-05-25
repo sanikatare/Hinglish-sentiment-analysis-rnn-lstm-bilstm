@@ -53,12 +53,10 @@ Adds gating mechanisms (input, forget, output gates) to retain long-range depend
 
 ### BiLSTM *(Best Performer)*
 Processes the sequence in **both forward and backward directions**, producing richer contextual representations at each timestep. Architecture:
-
 ```
 Input → Embedding Layer → Stacked BiLSTM Layers → Dense Layer → Sigmoid Output
 ```
 ---
-
 ## Pipeline
 
 ```
