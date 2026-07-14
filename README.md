@@ -1,11 +1,6 @@
 
 # Hinglish Hate Speech Detection using BiLSTM
 
-Detecting hate speech in code-mixed Hindi-English (Hinglish) social media text using deep learning — with a comparative study of RNN, LSTM, and BiLSTM architectures.
----
-
-## Overview
-
 This project tackles the challenging problem of hate speech detection in **Hinglish** — a code-mixed blend of Hindi and English commonly found on social media platforms like Reddit and Twitter. It benchmarks three sequential deep learning models (RNN, LSTM, BiLSTM) and demonstrates that **Bidirectional LSTM achieves the best performance** by capturing context from both directions in noisy, informal text.
 
 ---
